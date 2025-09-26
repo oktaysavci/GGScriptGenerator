@@ -1,7 +1,7 @@
 <root>
     <item>
-      <version>5</version>
+      <version>1</version>
       <description>Yeni sürüm açıklaması...</description>
-      <updateUrl>https://.../apk-or-webview</updateUrl>
+      <updateUrl>https://ggscriptgenerator.vercel.app</updateUrl>
     </item>
  </root>
